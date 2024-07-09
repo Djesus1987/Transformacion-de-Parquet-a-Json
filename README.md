@@ -1,5 +1,25 @@
 # Proyecto de Conversión de Parquet a JSON
+### Estructura del Proyecto
+El proyecto debe tener la siguiente estructura de archivos:
 
+README.md: Este archivo.
+archivo4.json: El archivo JSON generado.
+script.py: El script de Python con el código proporcionado.
+data/business.parquet: El archivo Parquet que se va a convertir.
+
+Contribución
+Si deseas contribuir a este proyecto, por favor sigue estos pasos:
+
+Haz un fork del repositorio.
+Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
+Haz tus cambios y commitea (git commit -am 'Añade nueva funcionalidad').
+Haz push a la rama (git push origin feature/nueva-funcionalidad).
+Abre un Pull Request.
+Licencia
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+
+Este README proporciona una descripción completa de cómo usar tu código, instalar las dependencias necesarias, y detalla la estructura del proyecto y los pasos para contribuir.
 Este proyecto demuestra cómo leer un archivo Parquet, convertir su contenido a un diccionario de Python y luego guardar ese diccionario como un archivo JSON. Utiliza las bibliotecas `pandas` y `json` para realizar estas tareas.
 
 ## Requisitos
@@ -43,27 +63,7 @@ with open('archivo4.json', 'w') as archivo:
 
 
 
-### Estructura del Proyecto
-El proyecto debe tener la siguiente estructura de archivos:
 
-README.md: Este archivo.
-archivo4.json: El archivo JSON generado.
-script.py: El script de Python con el código proporcionado.
-data/business.parquet: El archivo Parquet que se va a convertir.
-
-Contribución
-Si deseas contribuir a este proyecto, por favor sigue estos pasos:
-
-Haz un fork del repositorio.
-Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
-Haz tus cambios y commitea (git commit -am 'Añade nueva funcionalidad').
-Haz push a la rama (git push origin feature/nueva-funcionalidad).
-Abre un Pull Request.
-Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
-
-
-Este README proporciona una descripción completa de cómo usar tu código, instalar las dependencias necesarias, y detalla la estructura del proyecto y los pasos para contribuir.
 
 
 
