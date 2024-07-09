@@ -24,7 +24,7 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE
 
 Este README proporciona una descripción completa de cómo usar tu código, instalar las dependencias necesarias, y detalla la estructura del proyecto y los pasos para contribuir.
 
-#### Requisitos
+## Requisitos
 
 Antes de ejecutar el código, asegúrate de tener instaladas las siguientes bibliotecas de Python:
 
