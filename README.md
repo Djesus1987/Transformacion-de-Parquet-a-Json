@@ -4,6 +4,14 @@ Este proyecto demuestra cómo leer un archivo Parquet, convertir su contenido a 
 ## Estructura del Proyecto
 El proyecto debe tener la siguiente estructura de archivos:
 
+project
+│   README.md
+│   archivo4.json
+│   script.py
+│
+└───data
+    │   business.parquet
+
 README.md: Este archivo.
 archivo4.json: El archivo JSON generado.
 script.py: El script de Python con el código proporcionado.
