@@ -9,7 +9,7 @@ archivo4.json: El archivo JSON generado.
 script.py: El script de Python con el código proporcionado.
 data/business.parquet: El archivo Parquet que se va a convertir.
 
-##Contribución
+## Contribución 
 
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
