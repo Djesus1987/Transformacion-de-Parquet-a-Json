@@ -12,6 +12,9 @@ project
 └───data
     │   business.parquet
 
+
+    
+
 README.md: Este archivo.
 archivo4.json: El archivo JSON generado.
 script.py: El script de Python con el código proporcionado.
