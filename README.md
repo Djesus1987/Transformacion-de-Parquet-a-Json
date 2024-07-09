@@ -60,9 +60,10 @@ import json
 
 # Lee el archivo Parquet
 df = pd.read_parquet(r'ruta')
-
 df
 
+
+# convierte el dataframe en una lista de diccionarios usando como clave el registro de la columna id y el valor el resto de los registros de las demas columnas.
 result = df.set_index('ID_CLIENTE').apply(lambda row: row.to_dict(), axis=1).to_dict()
 result
 
