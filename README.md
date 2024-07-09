@@ -1,5 +1,7 @@
 # Proyecto de Conversión de Parquet a JSON
-### Estructura del Proyecto
+Este proyecto demuestra cómo leer un archivo Parquet, convertir su contenido a un diccionario de Python y luego guardar ese diccionario como un archivo JSON. Utiliza las bibliotecas `pandas` y `json` para realizar estas tareas.
+
+## Estructura del Proyecto
 El proyecto debe tener la siguiente estructura de archivos:
 
 README.md: Este archivo.
@@ -20,9 +22,8 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE
 
 
 Este README proporciona una descripción completa de cómo usar tu código, instalar las dependencias necesarias, y detalla la estructura del proyecto y los pasos para contribuir.
-Este proyecto demuestra cómo leer un archivo Parquet, convertir su contenido a un diccionario de Python y luego guardar ese diccionario como un archivo JSON. Utiliza las bibliotecas `pandas` y `json` para realizar estas tareas.
 
-## Requisitos
+### Requisitos
 
 Antes de ejecutar el código, asegúrate de tener instaladas las siguientes bibliotecas de Python:
 
