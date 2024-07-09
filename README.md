@@ -45,7 +45,7 @@ Antes de ejecutar el código, asegúrate de tener instaladas las siguientes bibl
 
 Puedes instalar las bibliotecas necesarias usando `pip`:
 
-```sh
+
 pip install pandas pyarrow
 
 Uso
@@ -53,7 +53,7 @@ A continuación se muestra un ejemplo de cómo utilizar el código.
 
 Código
 
-
+```sh
 import pandas as pd
 import pyarrow as pyw
 import json 
