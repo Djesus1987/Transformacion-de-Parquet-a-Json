@@ -61,26 +61,3 @@ print(cadena_json)
 # Escribir la lista de diccionarios en un archivo JSON
 with open('archivo4.json', 'w') as archivo:
     json.dump(result, archivo, indent=4)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
