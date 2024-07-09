@@ -9,7 +9,8 @@ archivo4.json: El archivo JSON generado.
 script.py: El script de Python con el código proporcionado.
 data/business.parquet: El archivo Parquet que se va a convertir.
 
-Contribución
+###Contribución
+
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
 Haz un fork del repositorio.
@@ -23,7 +24,7 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE
 
 Este README proporciona una descripción completa de cómo usar tu código, instalar las dependencias necesarias, y detalla la estructura del proyecto y los pasos para contribuir.
 
-### Requisitos
+#### Requisitos
 
 Antes de ejecutar el código, asegúrate de tener instaladas las siguientes bibliotecas de Python:
 
