@@ -67,7 +67,7 @@ df
 result = df.set_index('ID_CLIENTE').apply(lambda row: row.to_dict(), axis=1).to_dict()
 result
 
-# Convertir la lista de diccionarios a una cadena JSON 
+# Utiliza la función json.dumps() para convertir la lista de diccionarios a una cadena JSON. Esta linea de codigo es útil solo para ver como quedara el JSON en formato de cadena antes de escribirlo en un archivo.
 cadena_json = json.dumps(result, indent=4)
 print(cadena_json)
 
